@@ -2,4 +2,7 @@ Vodafone UA have VoLTE and/or VoWiFi provisioned?
   For 16.02.2025, already is. They started provisioning about month or so ago.
 
 Are Vodafone UA have a written phone number in phone settings at new SIM-cards?
-  Unknown. I hasn't got a new SIM-card, so this is unknown. But for old SIM (mine), my Poco C65 are showing phone number.
+  I hasn't got a new SIM-card, so this is unknown. But for old SIM (mine), my Poco C65 are showing phone number.
+
+Are Vodafone UA have soem features like ViLTE (Video calls over LTE)?
+  Yes. Because my Poco C65 doesn't support ViLTE, I cannot test this out. But friend accidentally call me with ViLTE and I got a unanswered call. So, at least, I didn't miss a call attempt
