@@ -4,5 +4,5 @@ A: Yes. In Ukraine, full support of both features on Poco provided by Lifecell (
 Q: What is the latest OS on my Poco C65?
 A: Poco C65 have HyperOS 2.0.205.0 in Ukraine. Other regions may differ in version that was available.
 
-Q: (sth about phone responsiveness (-less))
-A: (reboot, free the memory, use storage optimization manually, etc.)
+Q: Why my Poco C65 have bad responce time and feels "jelly"?
+A: Try to free enough memory space (>30%), not bloat it with lots of apps, consider to regularly reboot when stutters appears, use "Storage optimization" manually (in settings)
